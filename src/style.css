@@ -1,0 +1,23 @@
+/* purgecss start ignore */
+@tailwind base;
+/* purgecss end ignore */
+
+@font-face {
+    font-family: "Public Sans";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200;
+    src: url("/fonts/PublicSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Public Sans Black";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("/fonts/PublicSans-Black.woff2") format("woff2");
+}
+
+@tailwind components;
+
+@tailwind utilities;
