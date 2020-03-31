@@ -14,7 +14,7 @@
     "@zeit/next-css": "^1.0.1",
     "fetch-retry": "^2.2.3",
     "isomorphic-fetch": "^2.2.1",
-    "next": "^9.1.1",
+    "next": "^9.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
